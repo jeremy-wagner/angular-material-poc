@@ -1,0 +1,14 @@
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <h1>Angular Material POC</h1>
+    <span class="menu-spacer"></span>
+    <div>
+      <a mat-button [routerLink]="'/date-picker'"> Date Picker </a>
+      <a mat-button [routerLink]="'/multi-select'"> Multi Select </a>
+      <a mat-button [routerLink]="'/client-grid'"> Client Grid </a>
+      <a mat-button [routerLink]="'/server-grid'"> Server Grid </a>
+    </div>
+  </mat-toolbar-row>
+</mat-toolbar>
+
+<router-outlet></router-outlet>

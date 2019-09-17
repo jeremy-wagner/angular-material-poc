@@ -1,0 +1,14 @@
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\bin\Debug\netcoreapp2.1\server.deps.json
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\bin\Debug\netcoreapp2.1\server.runtimeconfig.json
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\bin\Debug\netcoreapp2.1\server.runtimeconfig.dev.json
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\bin\Debug\netcoreapp2.1\server.dll
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\bin\Debug\netcoreapp2.1\server.pdb
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\obj\Debug\netcoreapp2.1\server.csprojAssemblyReference.cache
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\obj\Debug\netcoreapp2.1\server.csproj.CoreCompileInputs.cache
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\obj\Debug\netcoreapp2.1\server.RazorAssemblyInfo.cache
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\obj\Debug\netcoreapp2.1\server.RazorAssemblyInfo.cs
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\obj\Debug\netcoreapp2.1\server.AssemblyInfoInputs.cache
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\obj\Debug\netcoreapp2.1\server.AssemblyInfo.cs
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\obj\Debug\netcoreapp2.1\server.RazorTargetAssemblyInfo.cache
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\obj\Debug\netcoreapp2.1\server.dll
+C:\Users\WagnerJM\Documents\Repository\material-poc\server\obj\Debug\netcoreapp2.1\server.pdb
